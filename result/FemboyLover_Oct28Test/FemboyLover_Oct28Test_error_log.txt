@@ -1,0 +1,7 @@
+Timestamp | Error Message
+--------------------------------------------------------------------------------
+2025-11-30 19:23:36.512702 | [ERROR] Order for GPSC (Vol: 11900.0, Price: 42, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 19:23:36.517464 | [ERROR] Order for RATCH (Vol: 17800.0, Price: 28, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 19:23:36.535372 | [ERROR] Order for CPN (Vol: 9600.0, Price: 52, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 19:23:36.535528 | [ERROR] Order for GPSC (Vol: 11900.0, Price: 43, Side: Sell) skipped due to Order's sell volume exceeds the cumulative buy volume from the daily ticks.
+2025-11-30 19:23:36.540000 | [ERROR] Order for KTC (Vol: 17200.0, Price: 29, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
