@@ -1,0 +1,12 @@
+Timestamp | Error Message
+--------------------------------------------------------------------------------
+2025-11-30 20:41:00.551828 | [ERROR] Order for TIDLOR (Vol: 29500.0, Price: 20.3, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 20:41:13.550800 | [ERROR] Order for KTB (Vol: 22200.0, Price: 27, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 20:41:13.550909 | [ERROR] Order for LH (Vol: 200000.0, Price: 3, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 20:41:13.555044 | [ERROR] Order for TIDLOR (Vol: 30000.0, Price: 20, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 20:41:13.617664 | [ERROR] Order for OSP (Vol: 40000.0, Price: 15, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 20:41:31.766207 | [ERROR] Order for WHA (Vol: 265400.0, Price: 2.26, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 20:41:54.453875 | [ERROR] Order for VGI (Vol: 779200.0, Price: 0.77, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 20:41:54.466903 | [ERROR] Order for VGI (Vol: 571400.0, Price: 1.05, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 20:44:49.080277 | [ERROR] Order for BJC (Vol: 53500.0, Price: 11.2, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 20:45:08.671014 | [ERROR] Order for MINT (Vol: 30000.0, Price: 20.0, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
