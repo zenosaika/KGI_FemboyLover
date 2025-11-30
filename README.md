@@ -1,9 +1,34 @@
 # KGI ALGO TRADING - FemboyLover TEAM
 
-# Team Information:
+# Team & Competition Information:
 ```
-Team Name : FemboyLover
+# Team
+Our Team Name : FemboyLover
 Current Strategy : IntradayMeanReversion (strategy/IntradayMeanReversion.py)
+
+# Competition
+Today Date : 2025-11-27 (Based on latest available tick data not real date)
+Competition Period : 2025-11-10 to 2025-12-08 (About 7 days left. SET market is closed on Saturdays and Sundays.)
+
+# Current Ranking
+1. FemboyLover (Our Team, See the simulation result in result/FemboyLover)
+    - % Return Rate : 98.8599746772
+    - % Max Drawdown : -5.18
+    - % Winrate : 84.1
+    - % Calmer Ratio : 19.07095995
+2. ShadowTeam (Note: We suspect this team uses an intraday mean reversion strategy similar to ours, but with less aggressive hyperparameters, such as position size and buy_trigger_pct.)
+    - % Return Rate : 11.49460698
+    - % Max Drawdown : -1.05
+    - % Winrate : 77.9
+    - % Calmer Ratio : 10.91478789
+3. LightTeam
+    - % Return Rate : 0.8656674166
+    - % Max Drawdown : -1.1
+    - % Winrate : 0 (Likely a buy-and-hold strategy)
+    - % Calmer Ratio : 0.784248454
+
+# Strategy Note
+It is unlikely that other teams can overtake us in the remaining 7 days. Therefore, I propose exploring additional strategies, such as High-Frequency Trading (HFT). We can leverage our significant capital advantage (approximately 2x that of our competitors) to allocate a portion of our profits toward generating further returns. This allows us to pursue upside potential with a very low risk of losing our lead to ShadowTeam.
 ```
 
 # Rules and Criteria

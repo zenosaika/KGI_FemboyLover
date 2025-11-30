@@ -1,0 +1,26 @@
+Timestamp | Error Message
+--------------------------------------------------------------------------------
+2025-11-30 17:50:41.661996 | [ERROR] Order for TIDLOR (Vol: 24600.0, Price: 20.3, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:50:41.666132 | [ERROR] Order for WHA (Vol: 155200.0, Price: 3.22, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:50:53.947745 | [ERROR] Order for KTB (Vol: 18500.0, Price: 27, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:50:53.947854 | [ERROR] Order for LH (Vol: 166600.0, Price: 3, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:50:53.948313 | [ERROR] Order for TCAP (Vol: 9800.0, Price: 51, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:50:53.951896 | [ERROR] Order for TIDLOR (Vol: 25000.0, Price: 20, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:50:53.954903 | [ERROR] Order for KKP (Vol: 7600.0, Price: 65, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:50:54.011988 | [ERROR] Order for OSP (Vol: 33300.0, Price: 15, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:50:54.029406 | [ERROR] Order for CPALL (Vol: 11100.0, Price: 46, Side: Sell) skipped due to Order's sell volume exceeds the cumulative buy volume from the daily ticks.
+2025-11-30 17:51:10.877332 | [ERROR] Order for WHA (Vol: 221200.0, Price: 2.26, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:51:10.947458 | [ERROR] Order for CPF (Vol: 23500.0, Price: 21.2, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:51:11.140290 | [ERROR] Order for OSP (Vol: 32400.0, Price: 15.7, Side: Sell) skipped due to Order's sell volume exceeds the cumulative buy volume from the daily ticks.
+2025-11-30 17:51:11.444692 | [ERROR] Order for CPALL (Vol: 11300.0, Price: 45.0, Side: Sell) skipped due to Order's sell volume exceeds the cumulative buy volume from the daily ticks.
+2025-11-30 17:51:32.445798 | [ERROR] Order for VGI (Vol: 649300.0, Price: 0.77, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:51:32.457520 | [ERROR] Order for VGI (Vol: 476100.0, Price: 1.05, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:52:01.965788 | [ERROR] Order for RATCH (Vol: 17800.0, Price: 28.0, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:52:02.053560 | [ERROR] Order for VGI (Vol: 485400.0, Price: 1.03, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:52:47.884361 | [ERROR] Order for SCGP (Vol: 30600.0, Price: 16.7, Side: Sell) skipped due to Order's sell volume exceeds the cumulative buy volume from the daily ticks.
+2025-11-30 17:54:24.763077 | [ERROR] Order for BJC (Vol: 44600.0, Price: 11.2, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:54:43.742533 | [ERROR] Order for BEM (Vol: 90900.0, Price: 5.5, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:54:43.763016 | [ERROR] Order for TRUE (Vol: 44200.0, Price: 11.3, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:54:43.788169 | [ERROR] Order for OSP (Vol: 31800.0, Price: 15.7, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:54:43.959678 | [ERROR] Order for MINT (Vol: 25000.0, Price: 20.0, Side: Buy) skipped due to Order's buy volume exceeds the cumulative sell volume from the daily ticks.
+2025-11-30 17:55:01.282752 | [ERROR] Order for RATCH (Vol: 17600.0, Price: 28.75, Side: Sell) skipped due to Order's sell volume exceeds the cumulative buy volume from the daily ticks.
